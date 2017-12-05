@@ -1,0 +1,159 @@
+---
+title: A Review of the Literature Concerning the Use of Metaphors, Metonymies, and
+  Prototypes to Assess Students' Conceptual Understandings
+author: "Allison Theobold"
+date: "November 27, 2017"
+output:
+  pdf_document: default
+  word_document: default
+header-includes: \usepackage{setspace}
+csl: apa.csl
+bibliography: biblio.bib
+---
+
+\doublespace
+
+# Abstract 
+
+
+
+\newpage
+
+# Introduction  
+
+Research in students usage of prototypes, metaphors, and metonymies was largely influential during the years 1990 to 2000, with subsequent declines since. During the early parts of the 1990's foundational works in students' usage of prototypes, metaphors, and metonymies were published by Presmeg, which are still the building blocks of research studies today. The purpose of this literature review is to understand the foundational concepts behind individual's usage of prototypes, metaphors, and metonymies and how these understandings have been and can be applied to assess students' conceptual understandings.   
+
+When learning mathematics students employ their imaginations in reasoning through concepts and tasks. These imageries are far more than peripheral, instead playing a central role in how students reason through mathematics. With the central role these imageries play, implications can be found for the advancement of teaching and learning mathematics. 
+The imageries can inform classroom assessment in a variety of ways. First, in assessing students' conceptual understanding educators can elicit students' metaphors or metonymies regarding the concept at hand. Through understanding how students construct these imageries we can better create classroom conversations and teaching methods that can prevent students constructing unhelpful imageries. Following these preliminary assessments and classroom conversations, secondary assessments of students' conceptual understandings could be used to verify student imagery of mathematical concepts.  
+
+In the following section we will discuss the foundational literatures that have informed this study. First, we review the foundational literature on individual's usage of prototypes, metaphors, and metonymies. We then discuss how these imageries can be utilized to assess students' conceptual understandings, using illustrations from practitioner research. 
+\pagebreak
+
+# Review of Literature  
+
+## Influence of Imagery on Mathematical Reasoning and Cognition  
+
+Why is it that within a single mathematics class there exist such tremendous variations in the learning of mathematics by individual students? [@presmeg] Presmeg (1992) argues the essential role that visualization plays in the learning of mathematics. She builds upon the epistemological philosophy of Immaneul Kant, Jean Piaget, and Barbel Inhelder, as well as the linguistics theory of Mark Johnson and George Lakoff, and makes a strong case that "abstraction, reasoning, and logic are essential to mathematical processing." Additionally, Presmeg argues that imagistic processing may play a central role in mathematical thinking even in modes of thinking some may consider to be non-visual. 
+
+In this foundational paper, Presmeg defines a visual image as a mental construct depicting visual or spatial information. This definition is large enough to encompass "pictures" in the mind, as well as more abstract forms of visualization. One might ask what these aspects have to do with metaphors, metonymies, and prototypes. The paper uses these constructs of visualization to situate metaphors and metonymies within the works of Johnson (1987), Lakoff (1987), and Lakoff and Johnson (1980). This allows for a discussion of the underlying prototypical images at play in student constructed metaphors and metonymies. 
+
+Johnson's (1987) "image-schematic structures" 
+
+as these relate to my construct "pattern imagery".
+
+
+This widely cited article by Presmeg describes high school case studies used to understand students' uses of prototypes, metaphors, and metonymies in mathematical reasoning. Prototypes are described as mental representations of categories, which can be helpful or unhelpful, and can be used as the basis for metaphors and metonymies. 
+
+## Types of Imageries Employed by Students  
+
+### __Metaphor__   
+
+A __metaphor__ can be defined as, "a figure of speech in which a word or phrase literally denoting one kind of object or idea is used in place of another to suggest a likeness or analogy between them" [@mish]. Any metaphor one constructs between two objects, A and B, will have both ground and tension [@presmeg]. Similarities between A and B constitute the ground, while dissimilarities between A and B constitute the tension. For example, in the phrase "a metaphor is a window," the ground involves the aspect that both objects allow for the observation of events, and the tension includes the aspect that a metaphor is not a physical object [@groth].  
+
+Reliance upon metaphors to guide mathematical thinking is not a phenomenon restricted to students. 
+
+Sfard (1994) discussed how the thinking of mathematicians is guided by metaphors. Commonly used mathematical phrases such as "increasing and decreasing," "closed and open," and "saturated and stable" all "clearly have their roots in the world of material objects" [@sfard, p. 47]. Furthermore, the mathematicians she interviewed emphasized the importance of analogies and metaphors in their work. For example, "some spoke of using analogies mapping elements from one domain
+of mathematics to another to guide conjecture formation" [@groth]. 
+
+
+Such metaphors can provide instructors with valuable insights about students' construction of knowledge [@presmeg_bergner]. 
+
+### __Metonymy__  
+
+A __metonymy__ can be defined as, "a figure of speech consisting of the use of the name of one thing for that of another of which it is an attribute or with which it is associated" [@mish]. Metonymies and metaphors are both relationships between two objects, A and B, where B represents A. 
+
+* In a metaphor objects A and B are in different conceptual domains.  
+
+* In a metonymy A and B are located in the same conceptual domain. [@hancock_present]   
+
+There are two different types of metonymies, proper metonymies and paradigmatic metonymies. A *proper metonymy* or *synecdoche* is where one part of the concept stands in for the entire concept. For example, the saying "I've got a new set of wheels" and "the suits on Wall Street" are proper metonymies. In these examples, the parts are either the wheels or a suit, respectively, which stand in for the whole, a car or Wall Street [@hancock_present]. A *paradigmatic metonymy* is where a prototype of a concept is used to represent the entire concept. For example, often a right triangle (or another sketched triangle) is considered to be representative of the whole class of triangles. [@hancock_present]   
+
+### __Prototypes__  
+
+The essence of a prototype is that it is a mental representation which is a good example of a category (Lakoff, 1987, p. 43). Prototypes lie at the center within their respective category. The prototype at the center of a category could be a mental image and may differ from one person to the next, but there are likely to be commonalities among people who share a common culture (Johnson, 1987). Prototypes are common in the mathematical thinking of individuals, and these prototypes may be helpful or unhelpful. It is common, for instance, for students to have a prototypical image of a triangle. When the triangle in a mathematical question matches the student's prototype, the image becomes helpful. However, if the triangle in question does not match the student's prototype, the image becomes unhelpful and may create an unforeseen burden in reasoning through the mathematical task. 
+
+Metaphors and metonymies can be used to extend a prototype or to link it with other categories in different domains [@presmeg_body]. Metaphors can extend a prototype to elements in a different conceptual domain. A metonymy can extend a prototype to be representative of the entire category in which it resides, the definition of a paradigmatic metonomy. That being said, a metaphor or a metonymy may or may not be prototypical, depending on its centrality in a category [@presmeg]. 
+
+For example, a student's prototypical image of a triangle could be paradigmatic metonymy of all triangles. When the triangle in a mathematical question matches the student's prototype, the image becomes helpful. When the triangle in question does not match the student's prototype, the image becomes unhelpful and may create an unforeseen burden in reasoning through the mathematical task.
+
+## Using Imagery to Assess Student Understanding  
+
+In this section we will discuss three research studies which were carried out to assess students' conceptual understanding and to describe the images they use in reasoning through these concepts. First, a study by Presmeg discusses how a student's metaphor helps them to reason through trigonometric ratios. Next, a study by Hancock and Noll outlines how, in assessing students' understanding of sampling distributions, students' metonymies shed light on conceptual misunderstandings. Finally, a study by Groth presents pre-service teachers' metaphors for the concept of a statistical sample, in an attempt to assess these teachers' knowledge of samples and how they could impact their future students' understandings. 
+
+### Imaginative Rationality in High School Mathematics   
+
+Students use of metaphors plays a significant role in mathematical reasoning. Presmeg (1992) illustrated how personal metaphors can influence problem-solving behavior. The study involved 54 visualizers who took part in 188 transcribed interviews over a period of eight months. She provides examples of how students' prototypical images, contrary to the beliefs of some teachers, proved essential in the reasoning and solving of mathematical problems at the high school level. The prototypical images served as both metaphors and metonymies, guiding students' reasoning process. From these results, a student's metaphorical image used in reasoning with trigonometric ratios and a student's metonymy of a parabola will be discussed.   
+
+Presmeg describes a high school student named Alison who constructed a metaphor of the x-axis as a "water level" in
+working with trigonometric ratios [@presmeg_1985].  
+
+\begin{quote}
+Here Alison used the metaphor of a ship sailing on a water level (x-axis) to remind her to
+use 180 degrees and 360 degrees in obtaining the acute angle she requires for the
+trigonometric ratios rather than 90 degrees or 270 degrees which would be contrary to
+her metaphor and would give an incorrect acute angle for the trigonometric ratio she
+is using [@presmeg, p. 600].
+\end{quote}
+
+Alison's self-invented metaphor played a significant role in her reasoning through the mathematical tasks asked of her. This is not an uncommon incident, other common mathematical metaphors include thinking of a function as a machine (Cuevas & Yeatts, 2001) and thinking of the a mean as a balance point for a set of numerical data (Mokros &
+Russell, 1995).  
+
+Prsemeg also saw multiple instances of images serving a metonymic purpose in her study participants. A student's metonymy for a parabola is illustrated below, along with the way such imagery can lead to pitfalls in learning high school mathematics. One visualizer in particular, Paul R., had a prototypical image of a downward-opening parabola which prevented him from finding the solution to a problem involving a parabola which did not conform to this special case [@presmeg, p. 163]. Paul's sketch of his prototypical image, which stood as his metonymy of all downward-opening parabolas, had the y-axis as its line of symmetry. The problem Paul was asked to solve required the use of a downward-opening parabola whose axis of symmetry was not the y axis. This property of the parabola in question gave him great difficulty, as his metonymic image of a downward-opening parabola was too restrictive. 
+
+
+### Metonymy as a Lens into Student Understanding of Sampling Distributions  
+
+Hancock and Noll investigate introductory statistics students' usage of metonymy in conceptualizing distributions, their relation to sampling, and their usage in informal statistical inference. This study involved data collection at two institutions, a medium-sized private college and a small private liberal arts-based research institution. At both institutions, the authors sampled students from undergraduate introductory statistics courses. Students from the medium-sized college were primarily math minors, while the students from the small private university were primarily geography and environmental science majors. [@hancock_pres] The Introductory Statistics course at both institutions were non-traditional, using activities to lead students through statistical concepts. The data collected were pre- and post-assessments of the statistical concepts given to the students, with 11 semi-structured interviews with students.  
+
+In the interview, students were asked to define a distribution, a population distribution, a sample distribution, and a sampling distribution. Following these definitions, students were asked to reason through two statistical applications comparing the use of the distribution of a sample to a sampling distribution. They were then asked two tasks which required for them to reason through the differences between the distribution of a sample and a sampling distribution. The metonomy framework was not in place a priori, but through iterations of data analysis and group discussions, their theory of metonomy for distribution was refined. The authors specifically state that they considered metonymy and not metaphors because this sample of students did not use metaphors, instead "their speech remained within the same conceptual structure rather than mapping between different structures" [@hancock].  
+
+In this sample of students two primary metonymies for distributions emerged the paradigmatic metonymy and the proper metonymy. As a refresher, in a paradigmatic metonomy, one part of the concept stands in for the whole concept, where the part is a prototype of the whole concept. Examples of students' paradigmatic metonomies are using a Normal distribution as a prototype for all distributions and students using dot plots as a representation of all distributions. In a proper metonymy, one part of the concept stands in for the whole concept, but the part is not considered a prototype of the concept (not at the center). 
+
+When students were asked, in the interview tasks, to reason through distributional concepts they often employed methods used for the Normal distribution, even when the distribution in the task was bimodal and right skewed.  
+
+\begin{quote}
+I could pretend that this [graph A] is part of a sampling distribution, even though I know it's not...So, if I assume that the population fits a Normal curve, then I could use the empiracle rule which tells me that 95% of the data is going to be within two standard deviations of the center...I just realized I'm kind of making assumptions this entire time...but if I did assume that it was skewed to the right I'd be totally lost.  
+\end{quote}
+
+Additionally, when students were asked to reason through questions regarding a sampling distribution the authors found that many students referred "to sampling distributions as a _collection of many samples_ or _differences from sample to sample_," substituting the term sample for the sample statistic. Of the 11 students interviewed, four defined sampling distributions using some form of the metonymic shortening. 
+
+\begin{quote}
+A sampling distribution is "the difference from sample to sample." 
+\end{quote}
+
+\begin{quote}
+A sampling distribution is a distribution of many distributions of a sample
+\end{quote}
+
+When students were then asked a task where they needed to use sampling distributions inferentially, for many students these metonymic shortenings became problematic. Students struggled to reason with a distribution of statistics from many samples (200 sample means of 50 tires), instead wanting to consider it to be a distribution of very large number of observations (10,000 tires).     
+
+### Pre-Service Elementary School Teachers' Metaphors for a Statistical Sample  
+
+Groth: This article "describes the nature of pre-service teachers' idiosyncratic metaphors for the concept of a statistical sample," [@groth] in an attempt to shed light on pre-service teachers knowledge of samples and how they may impact students' understandings. In this sample of 54 pre-service elementary teachers from a university-level mathematics teaching methods course, students participated in a discussion on the use of metaphors in mathematics. Following this discussion, students were given a writing prompt to construct a "metaphor for the concept of a statistical sample, and to identify the ground and tension inherent in the metaphor they had written." The definitions form seven categories, among which are descriptions of a "sample as a collection of objects," a "sample as a part of a whole," a "sample as a representative part of a whole," and "actions to be taken upon samples."  
+
+
+
+* Results from research-findings and conclusions from research studies.  
+
+    + Provide essential facts about what and who was studied and how the study was conducted - then focus on the results.  
+
+
+    
+# Conclusions  
+
+
+The difficulty Mr Red describes relates to the one-case concreteness of an
+image or diagram used in this metonymic way. There is research evidence that
+this kind of difficulty can be overcome, for example by using software such as
+the Geometric Supposer (Yerushalmy and Chazan, 1990).
+
+Through understanding how introductory statistics students (students similar to mine) construct metonymies of statistical concepts, we can better construct classroom conversations that can prevent students constructing unhelpful metonymies. 
+
+Describe what you (or other experts) think should happen next.  
+
+* What further research should be conducted on this topic?   
+* How should assessment practice be changed based on what you've learned?  
+
+\newpage  
+
+# References 

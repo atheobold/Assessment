@@ -1,0 +1,130 @@
+---
+title: Use of Metaphors, Metonymies, and Prototypes to Assess Students' Conceptual
+  Understandings
+author: "Allison Theobold"
+date: "December 4, 2017"
+output:
+  ioslides_presentation:
+    fig_height: 10
+    fig_width: 3
+    incremental: yes
+  beamer_presentation:
+    incremental: yes
+csl: apa.csl
+bibliography: biblio.bib
+---
+                                                                                                                                                                                                                                                                                   
+## Why Use Metaphors, Metonymies, and Prototypes to Assess Understanding?  
+
+* When learning mathematics students employ their imaginations in reasoning through concepts and tasks. 
+
+* These imageries are far more than peripheral, instead playing a central role in how students reason through mathematics.  
+* With the central role these imageries play, implications can be found for the advancement of teaching and learning mathematics.
+
+## Prototype    
+
+* A __prototype__ is a mental representation which is a good representative of the category in which it resides.   
+    + Prototypes lie at the center of their respective category. 
+    
+* Prototypes may differ from one person to the next, but there are likely to be commonalities among people who share a common culture (like a classroom). 
+
+* Prototypes are common in the mathematical thinking of individuals, and these prototypes may help or hinder students when reasoning through mathematical tasks.  
+    + It is common, for instance, for students to have a prototypical image of a triangle. 
+    
+## Metaphor
+
+* A __metaphor__ can be defined as, "a figure of speech in which a word or phrase literally denoting one kind of object or idea is used in place of another to suggest a likeness or analogy between them."  
+
+* Any metaphor one constructs between two objects, A and B, will have both ground and tension [@presmeg].   
+    + Similarities between A and B constitute the ground,   
+    + while dissimilarities between A and B constitute the tension.   
+
+* For example, in the phrase "a metaphor is a window,"   
+    + the ground involves the aspect that both objects allow for the observation of events, and  
+    + the tension includes the aspect that a metaphor is not a physical object [@groth]. 
+
+## Metonymy  
+
+* A __metonymy__ can be defined as, "a figure of speech consisting of the use of the name of one thing for that of another of which it is an attribute or with which it is associated."  
+
+* Metonymies and metaphors are both relationships between two objects, A and B, where B represents A. 
+    + In a metaphor objects A and B are in different conceptual domains.  
+    + In a metonymy A and B are located in the same conceptual domain [@hancock].   
+
+* For example, "the suits on Wall Street" is a metonymy.     
+
+## Types of Metonymies  
+
+* "Synecdoche" or "proper metonymy"  is where __one part__ of the concept stands in for the __entire__ concept.  
+    + For example, the saying "I've got a new set of wheels" is a proper metonymy. 
+    
+* "Paradigmatic metonymy" is where a __prototype__ of a concept is used to represent the __entire__ concept.  
+    + For example, often a right triangle (or another sketched triangle) is considered to be representative of the whole class of triangles [@hancock].   
+
+## Prototypes in Metaphors and Metonymies  
+
+* Metaphors and metonymies *can* be used to extend a prototype or to link it with other categories in different domains [@presmeg]. 
+
+* For example, a student's prototypical image of a triangle could be paradigmatic metonymy of all triangles.  
+
+    + When the triangle in a mathematical question matches the student's prototype, the image becomes helpful.  
+    
+    + When the triangle in question does not match the student's prototype, the image becomes unhelpful and may create an unforeseen burden in reasoning through the mathematical task.  
+    
+## Imaginative Rationality in High School Mathematics   
+
+Presmeg (1992) illustrated how personal metaphors can influence problem-solving behavior. Her study involved 54 visualizers who took part in 188 transcribed interviews over a period of eight months. 
+
+* She provides examples of how students' prototypical images proved essential in the reasoning and solving of mathematical problems at the high school level.  
+
+* The prototypical images served as both metaphors and metonymies, guiding students' reasoning process. 
+
+## Metaphors and Trigonometric Ratios 
+
+Presmeg describes a high school student named Alison who constructed a metaphor of the x-axis as a "water level" in
+working with trigonometric ratios [@presmeg].  
+
+*Alison used the metaphor of a ship sailing on a water level (x-axis) to remind her to use 180 degrees and 360 degrees in obtaining the acute angle she requires for the trigonometric ratios rather than 90 degrees or 270 degrees which would be contrary to her metaphor and would give an incorrect acute angle for the trigonometric ratio she is using [@presmeg, p. 600].* 
+
+## Metonymy and Sampling Distributions  
+
+Hancock and Noll collected data on Introductory Statistics undergraduate students from two different collegiate institutions.  
+
+* Students were given pre- and post-assessments of the statistical concepts.  
+
+* 11 students were selected for semi-structured interviews.  
+
+* In the interview, students were asked to define a distribution, a population distribution, a sample distribution, and a sampling distribution. 
+
+* Following these definitions, students were asked to reason through two statistical applications comparing the use of the distribution of a sample to a sampling distribution.  
+
+## The Curse of the Normal Distribution  
+
+In this sample of students a paradigmatic metonymy for a sampling distribution emerged. Students used a Normal distribution as a prototype for __all__ distributions.  
+
+When students were asked to reason through distributional concepts they often employed methods used for the Normal distribution, even when the distribution in the task was bimodal and right skewed.    
+
+*So, if I assume that the population fits a Normal curve, then I could use the empiracle rule which tells me that 95% of the data is going to be within two standard deviations of the center...I just realized I'm kind of making assumptions this entire time...but if I did assume that it was skewed to the right I'd be totally lost.* 
+
+## Metonymic Shortening  
+
+When students were asked to reason through questions regarding a sampling distribution the authors found that many students referred "to sampling distributions as a __collection of many samples__ or __differences from sample to sample__." 
+
+* This process acts as a metonymic shortening of the term sample for sample statistic.  
+
+    + *A sampling distribution is "the difference from sample to sample."*  
+    + *A sampling distribution is a distribution of many distributions of a sample.*  
+
+* These shortened metonoyms became problematic when students were then asked to reason with a sampling distribution inferentially. 
+
+## Conclusions  
+
+* Presmeg states that "this activity of imagination is what makes shared meanings possible," [@presmeg] implying that we as educators should be aware that visualization is an integral component in the learning of mathematics.  
+
+* She argues that because of these image constructions, discussions involving metaphors and metonymies should be included in the learning process to enrich the images constructed by students. 
+
+    + There can be vast differences in students' constructed images within a common classroom, as the process is a creative one.  
+    + We can help students to construct images that help them to mathematically reason through problems, rather than hinder them.  
+    
+
+## References  

@@ -1,0 +1,36 @@
+---
+title: 'Unit 3 Assignment: Interim Project Update'
+author: "Allison Theobold"
+date: "November 9, 2017"
+output:
+  word_document: default
+  pdf_document: default
+header-includes: \usepackage{setspace}
+bibliography: biblio.bib
+---
+
+\doublespace  
+
+# Prototypes, Metaphors, Metonymies and Imaginative Rationality in High School Mathematics  
+
+This widely cited article by Presmeg describes high school case studies used to understand students' uses of prototypes, metaphors, and metonymies in mathematical reasoning. Prototypes are described as mental representations of categories, which can be helpful or unhelpful, and can be used as the basis for metaphors and metonymies. The authors present an example, in which it is common for students (and individuals) to have a prototypical image of a triangle, which can be beneficial in certain settings and unhelpful in others. These prototypes can be used in metaphorical ways "to guide the reasoning process of visualizers," as well as metonymic ways where "some category or member or submodel is used to comprehend the category as a whole" [@presmeg]. The author then explores the usage of imagery "to depict abstract [mathematical] situations," discussing how pattern imagery is experienced by these students. The information in this article is cited in almost all statistics education research employing metaphors, metonymies, and prototypes, and is thus a foundational piece of literature in this field.  
+
+# Proper and Paradigmatic Metonymy as a Lens for Characterizing Student Conceptions of Distributions and Sampling 
+
+This article investigates introductory statistics students usage of metonymy in conceptualizing distributions, their relation to sampling, and their usage in informal statistical inference. The authors specifically state that they considered metonymy and not metaphors because this sample of students did not use metaphors, instead "their speech remained within the same conceptual structure rather than mapping between different structures" [@hancock]. In this sample of students two primary metonymies for distributions emerged: the paradigmatic metonymy, where "one part of the concept is a prototype for the whole concept" and the proper metonymy, where "one part of the concept stands in for the whole concept." When students were asked to reason about distributions they often employed methods used for the Normal distribution, even when the distribution in the task was bimodal and right skewed. Additionally, when students were asked to reason through questions regarding a sampling distribution the authors found that many students referred "to sampling distributions as a _collection of many samples_ or _differences from sample to sample_," substituting the term sample for the sample statistic. Through understanding how introductory statistics students (students similar to mine) construct metonymies of statistical concepts, we can better construct classroom conversations that can prevent students constructing unhelpful metonymies.        
+
+# Pre-Service Elementary School Teachers' Metaphors for the Concept of Statistical Sample 
+
+This article "describes the nature of pre-service teachers' idiosyncratic metaphors for the concept of a statistical sample," [@groth] in an attempt to shed light on pre-service teachers knowledge of samples and how they may impact students' understandings. In this sample of 54 pre-service elementary teachers from a university-level mathematics teaching methods course, students participated in a discussion on the use of metaphors in mathematics. Following this discussion, students were given a writing prompt to construct a "metaphor for the concept of a statistical sample, and to identify the ground and tension inherent in the metaphor they had written." The definitions form seven categories, among which are descriptions of a "sample as a collection of objects," a "sample as a part of a whole," a "sample as a representative part of a whole," and "actions to be taken upon samples." This article outlines how pre-service teachers at a university (students similar to mine) metaphorically understand statistical concepts, allowing us to construct teaching methods that can potentially prevent ill-formed metaphors.           
+
+# Mathematics Pre-Service Teachers' Metahporical Perceptions about Statistics in Turkey  
+
+This article, from the conference for New Horizons in Education, describes a study of 62 mathematics pre-service teachers at a public university in Turkey, and their metaphorical concepts of the field of statistics. The researchers asked these pre-service teachers to anonymously complete the phrase "statistics is like...because..." [@turkey]. Of the metaphors given by the participants, 32 were deemed "valid," among which were metaphors using a puzzle, a maze, and an ocean. This study, although limited in its findings, provides a variety of metaphoric perspectives on the field of statistics, and adds to the knowledge of how ESL learners metaphorically conceptualize statistics. 
+
+# Remaining Works  
+
+These pieces of literature give both the foundation of the use of metaphors, prototypes, and metonymies in mathematics, as well as a breadth of how it can be used to better understand student learning. These studies focused primarily on pre-service teachers statistical concepts, with only one study focusing on introductory statistics students. With the remaining time I intend to investigate literature that focuses more generally on the use of writing prompts in the statistics classroom. My intention is to better understand the breadth of how writing prompts can be used in the classroom.  
+
+\pagebreak
+
+# References

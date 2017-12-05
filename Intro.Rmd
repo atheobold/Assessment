@@ -1,0 +1,44 @@
+---
+title: "Unit 1: Individual Assessment Research"
+author: "Allison Theobold"
+date: "September 25, 2017"
+bibliography: biblio.bib 
+output: pdf_document
+---
+
+# Introduction  
+
+As many have experienced, students in mathematics suffer greatly from assessment anxiety. These anxieties can originate from many different places, such as, self-concept, self-efficacy, fear of failure, or lack of understanding. Formative assessment, with its propensity to engage all students daily, could potentially be found to reduce the amount of mathematics test anxiety students feel.   
+
+# Summary  
+
+## Effects of Formative Assessment on Mathematics Test Anxiety and Performance of Senior Secondary School Students in Jos, Nigeria   
+
+* __Who?__ This journal article, written in 1982, involves teachers at Senior Secondary schools in Jos, Nigeria. They study students in their second year (Year 9) of Senior Secondary school, assessing both their mathematical abilities and their math test anxiety.     
+
+* __What?__ The intention of this study was to examine the effects of employing a "formative assessment packet" to mathematics classes for Year 9 Nigerian students. This "package" contained "objectives; topics and contents; thirty-two lessons taught within eight weeks; weekly formative assessments; feedback and the remediation procedure, which focuses on correction of misconceptions and process error analyses" [@nigeria].     
+
+* __Why and How?__  The pass rate for the Mathematics portion of the Senior Secondary Certificate Examinations (SSCE) for Plateau State, Nigeria, where Jos is located, "ranged from 10.27% to 15.40%, while total percentage of candidates with ordinary pass and failure grades ranged from 84.6% to 89.73%." [@nigeria]. These examination scores speak to a large need for increased attention to the learning of students, both the concepts they are learning, as well as the most effective way to teach the required concepts. This study chose four schools in Jos, with two classrooms within each school, the two control classrooms had 57 students and the two treatment classrooms had 53 students. The researchers trained the four Senior Secondary Mathematics teachers, with the two "treatment" teachers learning how to administer the "formative assessment package" and the two "control" teachers learning how to administer lecture (traditional) style classes, where both taught the same course material.  They had the students in each of these classes take pre-tests, both a test on anxiety and on mathematical concepts, followed by post-tests after the 8 week lessons.       
+
+* __Results__  The researchers found that for students in the "treatment" group, that had experienced the "formative teaching package", there was a decrease in the "high" levels of test anxiety in the post-test versus the pre-test. This decrease in testing anxiety was largely experienced by the students who initially had reported high test anxiety, with them moving into the "moderate" anxiety group (high-pre = 67.9%, high-post = 1.9%) [-@nigeria]. Additionally, the students in the "treatment" group substantially increased their mathematical knowledge, with "100% of students in the experimental group scoring from 0-49% in the pretest. After the treatment there was a remarkable improvement as 54.7% scored 70-100% and 45.3% scored from 50-69%,which is considered average performance level." [-@nigeria]. The students in the "control" group saw little improvement, with "96.5% of the students scoring 0-49% in the pretest, and 75.4% of the them scoring 0- 49% in the posttest".    
+* __Reactions__  This research, performed nearly 35 years ago, was perhaps before its time. The methods and results are an inspiration for teachers increasing the use of formative assessment in their classrooms. I wish that their "formative assessment package" was included as an Appendix, so the reader could compare the study's assessment techniques with the techniques they are currently implementing in their own classroom, to improve or diversify their assessment toolkit.  
+
+
+##  Math anxiety: Relation with Situational Test Anxiety, Performance, Physiological Arousal, and Math Avoidance Behavior   
+
+* __Who?__ The researchers in this journal article, from 1984, designed a study of University of North Carolina, Chapel Hill, second year students.  
+
+* __What?__ The researchers intended to assess the relationships between math abilities, testing anxiety, and physiological arousal during testing. The research investigated three primary relationships, first, "the relation of math anxiety to test anxiety, and particularly situation-specific test anxiety and its worry and emotionality components" [@dew]. Next, they investigated the relationship between math anxiety and math performance, attempting to make sense of the direction of the relationship (if more anxiety improves performance or visa versa). Lastly, the researchers explored the relationship between math anxiety and physiological arousal (heart rate, skin temperature) during a problem solving set.    
+
+* __Why and How?__  The research was performed as a follow-up study to the first author's doctoral dissertation, which encompassed a comparison of the three math and test anxiety measures that were used in this study. To answer their three research questions, the authors employed a variety of tools. For the 63 participants (23 men and 40 women), each student was given "three math anxiety measures and a trait measure of test anxiety." The students then completed 3 problem sets, where set 3 was given under "test like" conditions and students were told for sets 1 and 2 that the objective was to measure their physiological reaction to math. Following the problem sets the students were given Deffenbacher's Post-Task Questionnaire as a post-test to measure their emotions and worry regarding test anxiety.   
+
+* __Results__  As the researchers included SAT-Q scores in the model, to control for mathematical abilities, the test anxiety and physiological reaction variables were deemed "insignificant". The statistical analyses the authors performed "univariate regression analyses were performed to explore the relationship further," were not corrected for multiple testing and are not statistically sound, when mathematical abilities are not controlled for.   
+
+* __Reactions__  The authors compensate for a lack of "statistical significance" by performing incorrect statistical analyses, when instead they could have discussed thoughts behind why controlling for mathematical abilities leaves measures of test anxiety in the dust. Thoughtful consideration of these variables leads one to realize that they are confounded with one another. A student's anxiety towards math tests holds a direct relationship with their mathematical abilities. One would potentially expect a student with a higher(lower) SAT-Q to have lower(higher) levels of anxiety toward math tests.  
+
+# Conclusion 
+
+With the increase in attention towards the students' anxieties towards statistics, there exists a gap in the literature in attempting to examine the relationship between different classroom styles and students' test anxiety. Supporting research on the effectiveness of formative assessment in mathematics classrooms fails to describe its effects on students test anxieties. With the push towards utilizing formative assessment in the classroom, a possible indirect result is a decrease in students' anxieties towards summative assessments. If our hope is to decrease these summative assessment anxieties, especially in mathematics, a more thoughtful journey through formative assessment could improve both our abilities as teachers and contribute to the gap in the literature around this topic.    
+
+# References  
+
